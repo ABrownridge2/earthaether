@@ -8,7 +8,7 @@
 :root {
   /* Backgrounds */
   --bg: #0a0a0a;
-  --bg-secondary: #111;
+  --bg-secondary: #009FA4;
   --surface: #141414;
   --surface-hover: #1e1e1e;
   --surface-active: #1a1a2e;
@@ -55,7 +55,7 @@
   --map-stroke: #0f5040;
 
   /* Font stack */
-  --font-mono: 'SF Mono', 'Monaco', 'Cascadia Code', 'Fira Code', 'DejaVu Sans Mono', 'Liberation Mono', monospace;
+  --font-mono: 'SF Mono', 'JetBrains Mono', 'Cascadia Code', 'Fira Code', 'DejaVu Sans Mono', 'Liberation Mono', monospace;
   /* Base body font, controlled by font preference (mono vs system) */
   --font-body-base: var(--font-mono);
   /* Effective body font used throughout the app */
